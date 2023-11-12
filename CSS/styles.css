@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+}
+#titulo{
+    background-color: rgb(131, 131, 207);
+}
+.contenedor{
+    background-color: aqua;
+    width: 500px;
+    text-align: center;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    margin: auto;
+    margin-top: 0.5em;
+}
+
+input{
+    display:block;
+    margin-bottom: 20px;
+    
+}
+#forma{
+    display: inline-block;
+}
+#btn-comprobar{
+    background-color: rgb(21, 21, 139);
+    color: white;
+    padding: 0.5em;
+}
+#resultado{
+    background-color: rgb(131, 131, 207);
+    width: fit-content;
+    margin: auto;
+}
